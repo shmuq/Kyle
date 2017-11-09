@@ -1,0 +1,70 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-image: url(https://ubistatic9-a.akamaihd.net/resource/en-NORDIC/game/southpark/thefracturedbutwhole/screenshot_human-kite-pov-rgb.jpg);
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: #ff7b00;
+}
+
+header img{
+	margin-left: 800px;
+	background-color: #334d4d;
+	border-radius: 150px;
+	width: 260px;
+	border: 5px solid #331f00;
+}
+
+.content{
+	max-width: 700px;
+	margin: 0 auto;
+	padding: 0 20px;
+	background-color: #a6a6a6;
+}
+
+body img{
+	text-align: center;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: white;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #4d4d4d;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline;
+	margin: 0 5px;
+}
